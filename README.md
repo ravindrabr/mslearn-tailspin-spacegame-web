@@ -1,5 +1,7 @@
 
-[![Build Status](https://ravindrabr.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://ravindrabr.visualstudio.com/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=4&branchName=main)
+
+[![Build Status](https://dev.azure.com/ravindrabr/Space%20Game%20-%20web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/ravindrabr/Space%20Game%20-%20web%20-%20Workflow/_build/latest?definitionId=16&branchName=main)
+
 
 # Contributing
 
